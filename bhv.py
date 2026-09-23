@@ -28,13 +28,20 @@ os.system("clear")
 
 #Menü
 def menu():
-	yazi = pyfiglet.figlet_format("BHVx777")
-	print(f"{MAVI}{yazi}{RESET}")
+	print(f"""{KIRMIZI}
+██████╗ ██╗  ██╗██╗   ██╗██╗  ██╗███████╗███████╗███████╗
+██╔══██╗██║  ██║██║   ██║╚██╗██╔╝╚════██║╚════██║╚════██║
+██████╔╝███████║██║   ██║ ╚███╔╝     ██╔╝    ██╔╝    ██╔╝
+██╔══██╗██╔══██║╚██╗ ██╔╝ ██╔██╗    ██╔╝    ██╔╝    ██╔╝ 
+██████╔╝██║  ██║ ╚████╔╝ ██╔╝ ██╗   ██║     ██║     ██║  
+╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝   ╚═╝     ╚═╝     ╚═╝  
+                                                         
+{RESET}""")
 	print(f"""{YESIL}Mehraba BHV'ye hoşgeldiniz burda bir çok Rat bulunmaktadır istediğiniz RAT'ı seçin{RESET}""")
-	print(f"""{YESIL}■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■{RESET}""")
+	print(f"""{YESIL}███████████████████████████████████████████████████{RESET}""")
 	print(f"{BEYAZ}Geliştirici: {MOR}VHG{RESET}")
 	print(f"{YESIL}istediğiniz Rat'ı sayı ile belitriniz{RESET}")
-	print(f"{YESIL}■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■{RESET}")
+	print(f"""{YESIL}███████████████████████████████████████████████████{RESET}""")
 	print(f"{KIRMIZI}[1]{RESET}	{CYAN}ModulerStegoRAT{RESET}")
 	print(f"{KIRMIZI}[2]{RESET}	{CYAN}Remote-acces-trojan{RESET}")
 	print(f"{KIRMIZI}[3]{RESET}	{CYAN}PhantomLink{RESET}")
@@ -66,7 +73,7 @@ def menu():
 	print(f"{KIRMIZI}[29]{RESET}	{CYAN}PingRAT{RESET}")
 	print(f"{KIRMIZI}[30){RESET}	{CYAN}DuplexSpyCS{RESET}")
 	print(f"{KIRMIZI}[99]   	Exit{RESET}")
-	print(f"{YESIL}■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■{RESET}")
+	print(f"""{YESIL}███████████████████████████████████████████████████{RESET}""")
 
 #kök
 while True:
