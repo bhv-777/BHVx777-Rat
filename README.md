@@ -44,7 +44,7 @@ pkg install git
 
 pkg install python3
 
-git clone https://github.com/vedatcandemirkaya-jpg/BHVx777.git
+git clone https://github.com/bhv-777/BHVx777.git
 
 cd BHVx777
 
@@ -57,7 +57,7 @@ python3 bhv.py
 
 ```
 
-pkg update && pkg upgrade -y && pkg install git && pkg install python3 && git clone https://github.com/vedatcandemirkaya-jpg/BHVx777-Rat.git && cd BHVx777-Rat && pip install pyfiglet && python3 bhv.py
+pkg update && pkg upgrade -y && pkg install git && pkg install python3 && git clone https://github.com/bhv-777/BHVx777-Rat.git && cd BHVx777-Rat && pip install pyfiglet && python3 bhv.py
 
 ```
 # 🚀 Kullanım
