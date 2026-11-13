@@ -55,7 +55,7 @@ def menu():
 	print(f"{KIRMIZI}[11]{RESET}	{CYAN}Kizagan{RESET}") #ya olm o ASCII banner şeyini nasıl yapiyorsunuz aq
 	print(f"{KIRMIZI}[12]{RESET}	{CYAN}thorse{RESET}")
 	print(f"{KIRMIZI}[13]{RESET}	{CYAN}Powershell-RAT{RESET}")
-	print(f"{KIRMIZI}[14]{RESET}	{CYAN}Eroin{RESET}")
+	print(f"{KIRMIZI}[14]{RESET}	{CYAN}Heroinn{RESET}")
 	print(f"{KIRMIZI}[15]{RESET}	{CYAN}RAT-Collection{RESET}")
 	print(f"{KIRMIZI}[16]{RESET}	{CYAN}Viridae{RESET}")
 	print(f"{KIRMIZI}[17]{RESET}	{CYAN}SpyNote-v6.4{RESET}")
@@ -72,6 +72,16 @@ def menu():
 	print(f"{KIRMIZI}[28]{RESET}	{CYAN}iOS-R4T-P0C{RESET}")
 	print(f"{KIRMIZI}[29]{RESET}	{CYAN}PingRAT{RESET}")
 	print(f"{KIRMIZI}[30){RESET}	{CYAN}DuplexSpyCS{RESET}")
+	print(f"{KIRMIZI}[31]{RESET}	{CYAN}GOD-OF-RAT{RESET}")
+	print(f"{KIRMIZI}[32]{RESET}	{CYAN}TheFatRat{RESET}")
+	print(f"{KIRMIZI}[33]{RESET}	{CYAN}mRemoteNG{RESET}")
+	print(f"{KIRMIZI}[34]{RESET}	{CYAN}ghost{RESET}")
+	print(f"{KIRMIZI}[35]{RESET}	{CYAN}antnium{RESET}")
+	print(f"{KIRMIZI}[36]{RESET}	{CYAN}SNK-RAT{RESET}")
+	print(f"{KIRMIZI}[37]{RESET}	{CYAN}Delta{RESET}") # Roblox hilesi değil direk Rat XDD
+	print(f"{KIRMIZI}[38]{RESET}	{CYAN}goRAT{RESET}")
+	print(f"{KIRMIZI}[39]{RESET}	{CYAN}Remote_Administrative_Console{RESET}") # vay aq adam rat'ı C++ ile yazmış keşke bende yapabilsem
+	print(f"{KIRMIZI}[40]{RESET}	{CYAN}KRAT{RESET}")
 	print(f"{KIRMIZI}[99]   	Exit{RESET}")
 	print(f"""{YESIL}███████████████████████████████████████████████████{RESET}""")
 
@@ -89,7 +99,7 @@ while True:
 		os.system("clear")
 	elif secim == "3":
 		os.system("git clone http]]s://github.com/AhmadMAnis/PhantomLink.git")
-		input(f"{SARI}Tool'unuz RAT adlı klasörünüze yüklendi devam etmek için Enter tıklayın...{RESET}")
+		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek için Enter tıklayın...{RESET}")
 		os.system("clear")
 	elif secim == "4":
 		os.system("git clone https://github.com/b3d3c/BDsploit.git")
@@ -199,6 +209,45 @@ while True:
 		os.system("git clone https://github.com/iss4cf0ng/DuplexSpyCS.git")
 		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek için Enter tıklayın...{RESET}")
 		os.system("clear")
+	elif secim == "31":
+		os.system("git clone https://github.com/Katastrofa0/GOD-OF-RAT.git")
+		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek için Enter tıklayın...{RESET}")
+		os.system("clear")
+	elif secim == "32":
+		os.system("git clone https://github.com/screetsec/TheFatRat.git")
+		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek için Enter tıklayın...{RESET}")
+		os.system("clear")
+	elif secim == "33":
+		os.system("git clone https://github.com/mRemoteNG/mRemoteNG.git")
+		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek uçin Enter tıklayın...{RESET}")
+		os.system("clear")
+	elif secim == "34":
+		os.system("git clone https://github.com/AHXR/ghost.git")
+		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek için Enter tıklayın...{RESET}")
+		os.system("clear")
+	elif secim == "35":
+		os.system("git clone https://github.com/dobin/antnium.git")
+		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek için Enter tıklayın...{RESET}")
+	elif secim == "36":
+		os.system("git clone https://github.com/uzokingkong/SNK-RAT.git")
+		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek için Enter tıklayın...{RESET}")
+		os.system("clear")
+	elif secim == "37":
+		os.system("git clone https://github.com/n3mu3lw/Delta.git")
+		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek için Enter tıklayın...{RESET}")
+		os.system("clear")
+	elif secim == "38":
+		os.system("git clone https://github.com/m0rd3caii/goRAT.git")
+		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek içun Enter tıklayın...{RESET}")
+		os.system("clear")
+	elif secim == "39":
+		os.system("git clone https://github.com/tajiknomi/Remote_Administrative_Console.git")
+		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek için Enter tıklayın...{RESET}")
+		os.system("clear")
+	elif secim == "40":
+		os.system("git clone https://github.com/L1shed/KRAT.git")
+		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek için Enter tıklayın...{RESET}")
+		Oos.system("clear")
 	elif secim == "99":
 	     print(f"{KIRMIZI}Çıkılıyor...{RESET}")
 	     time.sleep(3)
