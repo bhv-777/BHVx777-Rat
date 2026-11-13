@@ -228,6 +228,7 @@ while True:
 	elif secim == "35":
 		os.system("git clone https://github.com/dobin/antnium.git")
 		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek için Enter tıklayın...{RESET}")
+		os.system("clear")
 	elif secim == "36":
 		os.system("git clone https://github.com/uzokingkong/SNK-RAT.git")
 		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek için Enter tıklayın...{RESET}")
@@ -247,7 +248,7 @@ while True:
 	elif secim == "40":
 		os.system("git clone https://github.com/L1shed/KRAT.git")
 		input(f"{SARI}RAT şuanda olduğunuz klasöre yüklendi devam etmek için Enter tıklayın...{RESET}")
-		Oos.system("clear")
+		os.system("clear")
 	elif secim == "99":
 	     print(f"{KIRMIZI}Çıkılıyor...{RESET}")
 	     time.sleep(3)
