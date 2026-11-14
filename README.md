@@ -1,3 +1,4 @@
+![Uploading file_00000000423081f582d34261488d350c.png…]()
 # BHVx777-RAT Menüsü
 # 🛡️ BHVx777 – RAT Yönetim Aracı
 BHVx777, Termux üzerinde çalışan, 12 farklı Android RAT aracını tek bir menüde toplayan ve otomatik olarak kuran bir araçtır. Eğitim, güvenlik testleri ve etik hack amaçları için geliştirilmiştir. 🧠
