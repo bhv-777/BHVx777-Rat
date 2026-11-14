@@ -78,7 +78,7 @@ Kurulum tamamlandığında Enter ile menüye dönebilirsiniz.
 
 # 🧑‍💻 Geliştirici
 VHG
-GitHub: vedatcandemirkaya-jpg
+GitHub: bhv-777
 
 # 🌟 Katkıda Bulunun
 Bu projeyi beğendiyseniz yıldız (star) vermeyi ve fork’lamayı unutmayın. Geliştirme önerileriniz varsa iletişime geçin.
