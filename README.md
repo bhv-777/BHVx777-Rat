@@ -1,4 +1,4 @@
-<img width="3036" height="1524" alt="file_00000000423081f582d34261488d350c" src="https://github.com/user-attachments/assets/42c22634-635f-4219-adbc-73640b45bb8d" />
+<img width="2036" height="1524" alt="file_00000000423081f582d34261488d350c" src="https://github.com/user-attachments/assets/42c22634-635f-4219-adbc-73640b45bb8d" />
 
 # BHVx777-RAT Menüsü
 # 🛡️ BHVx777 – RAT Yönetim Aracı
