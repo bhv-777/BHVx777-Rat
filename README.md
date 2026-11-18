@@ -50,8 +50,6 @@ git clone https://github.com/bhv-777/BHVx777.git
 
 cd BHVx777
 
-pip install pyfiglet
-
 python3 bhv.py
 
 ```
@@ -59,7 +57,7 @@ python3 bhv.py
 
 ```
 
-pkg update && pkg upgrade -y && pkg install git && pkg install python3 && git clone https://github.com/bhv-777/BHVx777-Rat.git && cd BHVx777-Rat && pip install pyfiglet && python3 bhv.py
+pkg update && pkg upgrade -y && pkg install git && pkg install python3 && git clone https://github.com/bhv-777/BHVx777-Rat.git && cd BHVx777-Rat && python3 bhv.py
 
 ```
 # 🚀 Kullanım
@@ -77,7 +75,7 @@ Kurulum tamamlandığında Enter ile menüye dönebilirsiniz.
 **Bu araç yalnızca eğitim ve yetkili güvenlik testleri içindir. Yetkisiz kullanım yasa dışıdır ve tüm sorumluluk kullanıcıya aittir.**
 
 # 🧑‍💻 Geliştirici
-VHG
+BHV
 GitHub: bhv-777
 
 # 🌟 Katkıda Bulunun
